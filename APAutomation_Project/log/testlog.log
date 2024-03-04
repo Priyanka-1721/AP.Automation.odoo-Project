@@ -1,0 +1,80 @@
+2024-02-28 16:30:42,271 - AP Automation Framework -INFO - -----Framework Execution Started-----
+2024-02-28 16:30:48,785 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:30:50,230 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:30:52,366 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:30:52,878 - AP Automation Framework -INFO - -----Logged in successfully-----
+2024-02-28 16:30:53,220 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:30:55,226 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:31:04,744 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:31:06,666 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:31:12,903 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:31:14,840 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:31:15,117 - AP Automation Framework -INFO - -----Landed on signin page-----
+2024-02-28 16:31:16,039 - AP Automation Framework -INFO - -----Logged in successfully-----
+2024-02-28 16:31:27,417 - AP Automation Framework -INFO - -----Product added to the cart-----
+2024-02-28 16:31:38,906 - AP Automation Framework -INFO - -----Order placed-----
+2024-02-28 16:31:39,036 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:31:39,038 - AP Automation Framework -INFO - -----Framework Execution Completed-----
+2024-02-28 16:51:29,531 - AP Automation Framework -INFO - -----Framework Execution Started-----
+2024-02-28 16:51:32,150 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:51:43,815 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:51:46,053 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:51:53,215 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:51:54,995 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:52:04,837 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:52:06,669 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:52:18,066 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:52:20,092 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 16:52:20,328 - AP Automation Framework -INFO - -----Landed on signin page-----
+2024-02-28 16:52:21,508 - AP Automation Framework -INFO - -----Logged in successfully-----
+2024-02-28 16:52:33,441 - AP Automation Framework -INFO - -----Product added to the cart-----
+2024-02-28 16:52:45,151 - AP Automation Framework -INFO - -----Order placed-----
+2024-02-28 16:52:45,294 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 16:52:45,294 - AP Automation Framework -INFO - -----Framework Execution Completed-----
+2024-02-28 17:12:29,993 - AP Automation Framework -INFO - -----Framework Execution Started-----
+2024-02-28 17:12:32,942 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:12:44,611 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:12:47,362 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:12:54,598 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:12:56,616 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:13:06,651 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:13:08,857 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:13:23,300 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:13:25,471 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:13:25,824 - AP Automation Framework -INFO - -----Landed on signin page-----
+2024-02-28 17:13:27,044 - AP Automation Framework -INFO - -----Logged in successfully-----
+2024-02-28 17:13:38,945 - AP Automation Framework -INFO - -----Product added to the cart-----
+2024-02-28 17:13:50,170 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:13:50,171 - AP Automation Framework -INFO - -----Framework Execution Completed-----
+2024-02-28 17:24:56,069 - AP Automation Framework -INFO - -----Framework Execution Started-----
+2024-02-28 17:24:58,215 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:25:09,226 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:25:11,500 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:25:18,430 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:25:20,995 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:25:31,204 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:25:33,415 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:25:47,974 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:25:50,028 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-28 17:25:50,448 - AP Automation Framework -INFO - -----Landed on signin page-----
+2024-02-28 17:25:51,395 - AP Automation Framework -INFO - -----Logged in successfully-----
+2024-02-28 17:26:03,298 - AP Automation Framework -INFO - -----Product added to the cart-----
+2024-02-28 17:26:15,228 - AP Automation Framework -INFO - -----Order placed-----
+2024-02-28 17:26:15,355 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-28 17:26:15,356 - AP Automation Framework -INFO - -----Framework Execution Completed-----
+2024-02-29 15:26:11,130 - AP Automation Framework -INFO - -----Framework Execution Started-----
+2024-02-29 15:26:15,738 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-29 15:26:22,488 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-29 15:26:24,734 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-29 15:26:31,513 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-29 15:26:33,931 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-29 15:26:45,278 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-29 15:26:47,631 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-29 15:27:02,391 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-29 15:27:04,664 - AP Automation Framework -INFO - -----Browser launches with URL-----
+2024-02-29 15:27:04,996 - AP Automation Framework -INFO - -----Landed on signin page-----
+2024-02-29 15:27:06,164 - AP Automation Framework -INFO - -----Logged in successfully-----
+2024-02-29 15:27:18,375 - AP Automation Framework -INFO - -----Product added to the cart-----
+2024-02-29 15:27:30,882 - AP Automation Framework -INFO - -----Order placed-----
+2024-02-29 15:27:31,024 - AP Automation Framework -INFO - -----Browser Closed-----
+2024-02-29 15:27:31,024 - AP Automation Framework -INFO - -----Framework Execution Completed-----
